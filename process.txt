@@ -1,0 +1,8 @@
+This recounts the process of how I will complete this project:
+
+1 - find a free API which provides data in the form of JSON files 
+2 - create a database which stores these files and perform some small EDA on them 
+3 - extract using python from the database and perform EDA + modelling
+4 - generate report on outcomes 
+
+BONUS - create a small website which displays these figures with some complementary results
